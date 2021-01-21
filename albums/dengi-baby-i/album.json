@@ -1,1 +1,1 @@
-{"id":"dengi-baby-i", "title":"Dengi Baby I", "band":"Dengi Baby", "year":"2020",  "songs":{["name":"Micah Demo", "file":"00.ogg"], ["name":"Luke Demo", "file":"01.ogg"]}}
+{"id":"dengi-baby-i", "title":"Dengi Baby I", "band":"Dengi Baby", "thumb":"thumb_hdpi.png", "cover":"cover_hdpi.png", "year":"2020", "genre":"Rock", "songs":{["name":"Micah Demo", "file":"00.ogg"], ["name":"Luke Demo", "file":"01.ogg"]}}
